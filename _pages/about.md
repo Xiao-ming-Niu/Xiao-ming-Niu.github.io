@@ -24,12 +24,52 @@ My research interests include **numerical methods for partial differential
 equations**, **finite element methods**, **scientific computing**, and
 **numerical linear algebra**.
 
-I am currently working on numerical methods for [你的具体研究问题].
+I am currently working on [your specific research topic, e.g., adaptive finite element methods for elliptic PDEs].
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class='anchor' id='-education'></span>
 
 # 📖 Education
-- *2025.09 - Present*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09 - 2025.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.09 - Present*, **M.Sc. in Computational Mathematics**, Shantou University
+  - Supervisor: [your supervisor's name]
+  - Research focus: [your specific research area]
+
+- *2021.09 - 2025.07*, **B.Sc. in [your major, e.g., Mathematics / Applied Mathematics]**, [your undergraduate university]
+  - [Optional: thesis title, GPA, or key coursework]
+
+<span class='anchor' id='-open-source-projects'></span>
+
+# 💻 Open Source Projects
+
+- **[Project Name 1]** | [GitHub](https://github.com/Xiao-ming-Niu/repo-name)
+  - [One-line description: what it does, key technique]
+  - `PyTorch` `Computer Vision` `Image Classification`
+
+- **[Project Name 2]** | [GitHub](https://github.com/Xiao-ming-Niu/repo-name)
+  - [One-line description: what it does, key technique]
+  - `Transformers` `NLP` `Text Generation`
+
+<span class='anchor' id='-research-projects'></span>
+
+# 🔬 Research Projects
+
+- **[Project Name]**
+  - [Brief description of the research problem, your approach, and outcomes]
+  - Supervisor: [name] | [Year]
+
+<span class='anchor' id='-honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+
+- *[YYYY.MM]* [Award name], [issuing organization]
+- *[YYYY.MM]* [Award name], [issuing organization]
+
+<span class='anchor' id='-skills'></span>
+
+# 🛠 Skills
+
+- **Programming:** Python, [MATLAB / C++ / etc.]
+- **Deep Learning:** PyTorch, [TensorFlow / etc.]
+- **Math Tools:** [MATLAB, Mathematica, etc.]
+- **Scientific Computing:** [FEniCS, Deal.II, etc.]
+- **Tools:** Git, LaTeX, [others]
