@@ -6,13 +6,13 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Open Source"
+  - title: "Open Source Projects"
     url: "/#-open-source-projects"
 
-  - title: "Research"
+  - title: "Research Projects"
     url: "/#-research-projects"
 
-  - title: "Honors"
+  - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "中文"
