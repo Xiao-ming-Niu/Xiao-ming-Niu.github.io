@@ -1,9 +1,10 @@
 ---
-layout: archive
 title: "个人主页"
 permalink: /zh/
 author_profile: true
 ---
+
+[← English](/){: .btn .btn--light}
 
 <span class='anchor' id='about-me'></span>
 
