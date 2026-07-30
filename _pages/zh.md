@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "个人主页"
 permalink: /zh/
 author_profile: true
