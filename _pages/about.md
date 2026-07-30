@@ -21,21 +21,21 @@ I am a Master's student in Computational Mathematics at
 **Shantou University**.
 
 My research interests include **numerical methods for partial differential
-equations**, **finite element methods**, **scientific computing**, and
-**numerical linear algebra**.
+equations**, **Finite Element Methods**, **Deep Learning**, **Quantum Computing**,
+**Computer Vision**, and **Natural Language Processing**.
 
-I am currently working on [your specific research topic, e.g., adaptive finite element methods for elliptic PDEs].
+I am currently working on [solving PDEs with quantum computing] and [Deep Learning].
 
 <span class='anchor' id='-education'></span>
 
 # 📖 Education
 
-- *2025.09 - Present*, **M.Sc. in Computational Mathematics**, Shantou University
-  - Supervisor: [your supervisor's name]
-  - Research focus: [your specific research area]
+- *2025.09 - Present*, **M.Sc. in Computational Mathematics**, [Shantou University]
+  - Research focus: [numerical methods for PDEs], [quantum computing]
 
-- *2021.09 - 2025.07*, **B.Sc. in [your major, e.g., Mathematics / Applied Mathematics]**, [your undergraduate university]
-  - [Optional: thesis title, GPA, or key coursework]
+- *2021.09 - 2025.07*, **B.Sc.**, [Hohai University]
+  - Major: [Information and Computational Science]
+  - Thesis: [Research on Surface Coincidence Detection and Extraction Methods]
 
 <span class='anchor' id='-open-source-projects'></span>
 
@@ -49,13 +49,17 @@ I am currently working on [your specific research topic, e.g., adaptive finite e
   - [One-line description: what it does, key technique]
   - `Transformers` `NLP` `Text Generation`
 
+<!-- Add more projects following the same format -->
+
 <span class='anchor' id='-research-projects'></span>
 
 # 🔬 Research Projects
 
-- **[Project Name]**
-  - [Brief description of the research problem, your approach, and outcomes]
-  - Supervisor: [name] | [Year]
+- **[Construction and Application of Cubic B-spline Curves Satisfying $G^3$ Conditions]**
+  - Objective: [This project implements a method for constructing cubic $G^3$ spline curves. The constructed $G^3$ spline curves, like B-spline curves, can be modified by editing the control polygon.]
+  - Innovation: [Building upon existing $G^2$ construction methods, this project proposes a new approach using a given control polygon to construct cubic $G^3$ spline curves. Similar to B-spline curves, the resulting curve can be modified by editing the control polygon.]
+
+<!-- Add more research projects as needed -->
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -71,5 +75,4 @@ I am currently working on [your specific research topic, e.g., adaptive finite e
 - **Programming:** Python, [MATLAB / C++ / etc.]
 - **Deep Learning:** PyTorch, [TensorFlow / etc.]
 - **Math Tools:** [MATLAB, Mathematica, etc.]
-- **Scientific Computing:** [FEniCS, Deal.II, etc.]
 - **Tools:** Git, LaTeX, [others]
