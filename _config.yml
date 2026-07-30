@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiao-ming-Niu"
-description              : "Personal Academic Homepage"
+description              : "Master's Student in Computational Mathematics at Shantou University"
 repository               : "Xiao-ming-Niu/Xiao-ming-Niu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoming Niu"
   avatar           : "images/Portrait.jpg"
-  bio              : "Student"
+  bio              : "M.Sc. Student in Computational Mathematics"
   location         : "Shantou Guangdong"
-  employer         :
+  employer         : "Shantou University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :
   email            : "1325988053@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "Xiao-ming-Niu"
+  github           : "Xiao-ming-Niu"
   google_plus      :
   keybase          :
   instagram        :
