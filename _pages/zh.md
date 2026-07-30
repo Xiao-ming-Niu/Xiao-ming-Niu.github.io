@@ -31,11 +31,11 @@ author_profile: true
 
 # 💻 开源项目
 
-- **[项目名称 1]** | [GitHub](https://github.com/your-username/repo-name)
+- **[项目名称 1]** | [GitHub](https://github.com/Xiao-ming-Niu/repo-name)
   - [一句话描述：项目做什么，核心技术]
   - `PyTorch` `计算机视觉` `图像分类`
 
-- **[项目名称 2]** | [GitHub](https://github.com/your-username/repo-name)
+- **[项目名称 2]** | [GitHub](https://github.com/Xiao-ming-Niu/repo-name)
   - [一句话描述：项目做什么，核心技术]
   - `Transformers` `自然语言处理` `文本生成`
 
