@@ -55,9 +55,9 @@ I am currently working on [solving PDEs with quantum computing] and [Deep Learni
 
 # 🔬 Research Projects
 
-- **[Construction and Application of Cubic B-spline Curves Satisfying $G^3$ Conditions]**
-  - Objective: [This project implements a method for constructing cubic $G^3$ spline curves. The constructed $G^3$ spline curves, like B-spline curves, can be modified by editing the control polygon.]
-  - Innovation: [Building upon existing $G^2$ construction methods, this project proposes a new approach using a given control polygon to construct cubic $G^3$ spline curves. Similar to B-spline curves, the resulting curve can be modified by editing the control polygon.]
+- **[Construction and Application of Cubic B-spline Curves Satisfying \\(G^3\\) Conditions]**
+  - Objective: [This project implements a method for constructing cubic \\(G^3\\) spline curves. The constructed \\(G^3\\) spline curves, like B-spline curves, can be modified by editing the control polygon.]
+  - Innovation: [Building upon existing \\(G^2\\) construction methods, this project proposes a new approach using a given control polygon to construct cubic \\(G^3\\) spline curves. Similar to B-spline curves, the resulting curve can be modified by editing the control polygon.]
 
 <!-- Add more research projects as needed -->
 
