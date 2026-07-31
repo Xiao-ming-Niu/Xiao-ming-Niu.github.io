@@ -24,8 +24,7 @@ author_profile: true
 - *2025.09 - 至今*, **计算数学 硕士**, [汕头大学]
   - 研究方向：[偏微分方程数值解], [量子计算]
 
-- *2021.09 - 2025.07*, **本科**, [河海大学]
-  - 专业：[信息与计算科学]
+- *2021.09 - 2025.07*, **信息与计算科学 本科**, [河海大学]
   - 毕业论文题目：[曲面重合检测与提取方法研究]
 
 <span class='anchor' id='-open-source-projects'></span>
@@ -66,4 +65,4 @@ author_profile: true
 - **编程语言:** Python, [MATLAB / C++ / 等]
 - **深度学习:** PyTorch, [TensorFlow / 等]
 - **数学工具:** [MATLAB, Mathematica, 等]
-- **工具:** Git, LaTeX, [其他]
+- **工具:** Git, LaTeX, Typst, Office.[其他]
