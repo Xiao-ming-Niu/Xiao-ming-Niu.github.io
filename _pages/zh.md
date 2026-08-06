@@ -15,7 +15,9 @@ author_profile: true
 
 我的研究兴趣包括**偏微分方程数值解**、**有限元方法**、**深度学习**、**量子计算**、**计算机视觉**和**自然语言处理**等。
 
-目前正在研究：[量子计算求解PDE]、[深度学习]。
+我的兴趣爱好包括**摄影**、**篮球**、**羽毛球**和**音乐**等。
+
+目前正在研究：[量子计算求解PDE]、[CV]、[NLP]、[Agent]。
 
 <span class='anchor' id='-education'></span>
 
@@ -31,13 +33,13 @@ author_profile: true
 
 # 💻 开源项目
 
-- **[项目名称 1]** | [GitHub](https://github.com/Xiao-ming-Niu/repo-name)
-  - [一句话描述：项目做什么，核心技术]
+- **[猫狗图像分类](https://github.com/Xiao-ming-Niu/Cat-Dog-Classification)**
+  - 从零搭建自定义CNN的PyTorch项目，用于区分猫狗图像，结构清晰、易读，适合入门，测试准确率达**93.0%**。
   - `PyTorch` `计算机视觉` `图像分类`
 
-- **[项目名称 2]** | [GitHub](https://github.com/Xiao-ming-Niu/repo-name)
-  - [一句话描述：项目做什么，核心技术]
-  - `Transformers` `自然语言处理` `文本生成`
+- **[量子计算](https://github.com/Xiao-ming-Niu/Quantum-Computation)**
+  - 以"面向科学计算的量子算法"为主线的量子计算LaTeX系列讲义：从量子比特、量子门与QFT/QPE等核心原语，到现代量子算法框架（block-encoding、LCU、QSVT），再到PDE的量子模拟与薛定谔化方法。
+  - `LaTeX` `量子计算` `量子算法`
 
 <!-- 按相同格式添加更多项目 -->
 
@@ -55,14 +57,17 @@ author_profile: true
 
 # 🎖 荣誉奖项
 
-- *[YYYY.MM]* [奖项名称]，[颁发机构]
-- *[YYYY.MM]* [奖项名称]，[颁发机构]
+- 第十五届全国大学生数学竞赛 **二等奖**.
+- 第十七届"认证杯"数学建模网络挑战赛 **二等奖**.
+- "华为杯"第二十二届中国研究生数学建模竞赛 **三等奖**.
+- 河海大学团委组织部 **优秀部长**.
 
 <span class='anchor' id='-skills'></span>
 
 # 🛠 技能
 
-- **编程语言:** Python, [MATLAB / C++ / 等]
-- **深度学习:** PyTorch, [TensorFlow / 等]
-- **数学工具:** [MATLAB, Mathematica, 等]
-- **工具:** Git, LaTeX, Typst, Office.[其他]
+- **编程语言:** Python, MATLAB
+- **机器学习 / 深度学习:** PyTorch, Scikit-learn
+- **计算机视觉:** OpenCV
+- **数学工具:** Mathematica
+- **工具:** Git, LaTeX, Typst, Office
