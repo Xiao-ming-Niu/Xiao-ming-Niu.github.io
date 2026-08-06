@@ -63,13 +63,14 @@ I am currently working on [solving PDEs with quantum computing], [Computer Visio
 - *15th National College Students Mathematics Competition* — **Second Prize**.
 - *17th "Renzheng Cup" Mathematical Modeling Network Challenge* — **Second Prize**.
 - *22nd "Huawei Cup" China Postgraduate Mathematical Contest in Modeling* — **Third Prize**.
-- *Outstanding Minister*, Organization Department of Hohai University Youth League Committee.
+- *Outstanding Minister*, Organization Department of Youth League Committee, College of Science, Hohai University.
 
 <span class='anchor' id='-skills'></span>
 
 # 🛠 Skills
 
 - **Programming:** Python, MATLAB
+- **AI Coding Tools / Agent:** Claude Code, Codex
 - **Machine Learning / Deep Learning:** PyTorch, Scikit-learn
 - **Computer Vision:** OpenCV
 - **Math Tools:** Mathematica

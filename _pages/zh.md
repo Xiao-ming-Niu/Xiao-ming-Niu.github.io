@@ -60,13 +60,14 @@ author_profile: true
 - 第十五届全国大学生数学竞赛 **二等奖**.
 - 第十七届"认证杯"数学建模网络挑战赛 **二等奖**.
 - "华为杯"第二十二届中国研究生数学建模竞赛 **三等奖**.
-- 河海大学团委组织部 **优秀部长**.
+- 河海大学理学院团委组织部 **优秀部长**.
 
 <span class='anchor' id='-skills'></span>
 
 # 🛠 技能
 
 - **编程语言:** Python, MATLAB
+- **AI 编程工具 / Agent:** Claude Code, Codex
 - **机器学习 / 深度学习:** PyTorch, Scikit-learn
 - **计算机视觉:** OpenCV
 - **数学工具:** Mathematica
