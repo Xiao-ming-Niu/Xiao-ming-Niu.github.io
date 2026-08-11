@@ -40,6 +40,10 @@ I am currently working on [solving PDEs with quantum computing], [Computer Visio
   - A clean, beginner-friendly PyTorch project that trains a custom CNN from scratch to distinguish cat and dog images, reaching **93.0%** test accuracy.
   - `PyTorch` `Computer Vision` `Image Classification`
 
+- **[Face Identification](https://github.com/Xiao-ming-Niu/Face-Identification)**
+  - A face identification demo based on PyTorch: detects faces with OpenCV's Haar cascade classifier, then identifies who the person is using a ResNet18 model fine-tuned on a celebrity face dataset (transfer learning).
+  - `PyTorch` `Computer Vision` `Face Recognition` `Transfer Learning`
+
 - **[Quantum-Computation](https://github.com/Xiao-ming-Niu/Quantum-Computation)**
   - A series of LaTeX lecture notes on quantum computing, centered on quantum algorithms for scientific computation — from qubits, quantum gates, QFT and QPE, through the modern framework (block-encoding, LCU, QSVT), to quantum simulation of PDEs and the Schrödingerization method.
   - `LaTeX` `Quantum Computing` `Quantum Algorithms`

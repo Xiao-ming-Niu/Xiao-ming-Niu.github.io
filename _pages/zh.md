@@ -37,6 +37,10 @@ author_profile: true
   - 从零搭建自定义CNN的PyTorch项目，用于区分猫狗图像，结构清晰、易读，适合入门，测试准确率达**93.0%**。
   - `PyTorch` `计算机视觉` `图像分类`
 
+- **[人脸识别](https://github.com/Xiao-ming-Niu/Face-Identification)**
+  - 基于PyTorch的人脸识别演示项目：使用OpenCV Haar级联分类器检测人脸，再利用在名人数据集上微调的ResNet18模型（迁移学习）识别图像中的人物身份。
+  - `PyTorch` `计算机视觉` `人脸识别` `迁移学习`
+
 - **[量子计算](https://github.com/Xiao-ming-Niu/Quantum-Computation)**
   - 以"面向科学计算的量子算法"为主线的量子计算LaTeX系列讲义：从量子比特、量子门与QFT/QPE等核心原语，到现代量子算法框架（block-encoding、LCU、QSVT），再到PDE的量子模拟与薛定谔化方法。
   - `LaTeX` `量子计算` `量子算法`
