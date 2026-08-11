@@ -12,7 +12,7 @@
   pointer-events: none;
 
   /* On small screens, reduce wave height so content has more room */
-  @include breakpoint($small) {
+  @include breakpoint(max-width $small) {
     height: 12vh;
   }
 }
