@@ -16,20 +16,21 @@ redirect_from:
 
 I am a Master's student in Computational Mathematics at **Shantou University**.
 
-My research interests include **numerical methods for partial differential equations**, **Finite Element Methods**, **Deep Learning**, **Quantum Computing**, **Computer Vision**, and **Natural Language Processing**.
+My research interests include **numerical methods for partial differential equations**, **Finite Element Methods**, **Deep Learning**, **Quantum Computing**, **LLM**, and **Agent**.
 
 My hobbies include **photography**, **basketball**, **badminton**, and **music**.
 
-I am currently working on [solving PDEs with quantum computing], [Computer Vision], [NLP], and [Agent].
+I am currently working on [quantum computing], [LLM], [Deep Learning], and [Agent].
 
 <span class='anchor' id='-education'></span>
 
 # 📖 Education
 
-- *2025.09 - Present*, **M.Sc. in Computational Mathematics**, [Shantou University]
+- *2025.09 - 2028.07*, **M.Sc. in Computational Mathematics**, [Shantou University]
   - Research focus: [numerical methods for PDEs], [quantum computing]
 
 - *2021.09 - 2025.07*, **B.Sc. in Information and Computational Science**, [Hohai University]
+  - Research focus: [Computer Aided Geometric Design]
   - Thesis: [Research on Surface Coincidence Detection and Extraction Methods]
 
 <span class='anchor' id='-open-source-projects'></span>
@@ -64,9 +65,12 @@ I am currently working on [solving PDEs with quantum computing], [Computer Visio
 
 # 🎖 Honors and Awards
 
+- *2026 Shusheng Guozhi Science Exploration Challenge* — **Community Co-creation Award**.
+- *22nd "Huawei Cup" China Postgraduate Mathematical Contest in Modeling* — **Third Prize**.
+- *2026-2027 Academic Year Postgraduate National Academic Scholarship, Shantou University* — **First Prize**.
+- *2025-2026 Academic Year Postgraduate National Academic Scholarship, Shantou University* — **Second Prize**.
 - *15th National College Students Mathematics Competition* — **Second Prize**.
 - *17th "Renzheng Cup" Mathematical Modeling Network Challenge* — **Second Prize**.
-- *22nd "Huawei Cup" China Postgraduate Mathematical Contest in Modeling* — **Third Prize**.
 - *Outstanding Minister*, Organization Department of Youth League Committee, College of Science, Hohai University.
 
 <span class='anchor' id='-skills'></span>
